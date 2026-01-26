@@ -54,7 +54,7 @@ The Boknis Eck time series is one of the longest continuous marine time series i
 ├── Capstone/
 │   ├── boknis_eck_temperature_jannik_melcher.ipynb  # Main analysis notebook
 │   ├── boknis_eck.csv                                # Raw dataset
-│   └── Data/
+│   └── license/
 │       ├── LICENSE
 │       └── setup.py
 ├── Practise/
@@ -101,7 +101,7 @@ The notebook includes:
 
 ## 📄 License
 
-See `Capstone/Data/LICENSE` for dataset licensing information.
+See `Capstone/license/LICENSE` for dataset licensing information.
 
 ## 🙏 Acknowledgments
 
